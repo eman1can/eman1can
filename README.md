@@ -2,7 +2,7 @@
 ## Currently working on
 
 ### Coatirane Adventures ![](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png =20x)
-Built using [Kivy](https://github.com/kivy/kivy) ![](https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png =20x) and to be compiled on Windows, Linux, Mac and Android.
+Built using a custom fork of [Kivy](https://github.com/eman1can/kivy) that adds hovering and asyncronous loading of S3 objects. ![](https://raw.githubusercontent.com/kivy/kivy/master/kivy/data/logo/kivy-icon-256.png =20x) and to be compiled on Windows, Linux, Mac and Android.
 Start in the small town of Coatirane, recruit adventurers to join your cause and explore a dangerous dungeon.
 
 Built on a custom porting of Spine and Lwf for character and fighting animations.
