@@ -5,7 +5,8 @@ You can look at me on [here](ethanwolfe.cikeys.com) for more information or to c
 
 ### Coatirane Adventures (<img src="python.png" width="20" height="20"></img>)
 Built using a custom fork of [Kivy](https://github.com/eman1can/kivy)<img src="kivy.png" width="20" height="20"></img> that adds hovering and asyncronous loading of S3 objects and to be compiled on Windows, Linux, Mac and Android.
-Start in the small town of Coatirane, recruit adventurers to join your cause and explore a dangerous dungeon.
+Starting in the small town of Coatirane, recruit adventurers to join your cause and explore a dangerous dungeon to gain strength and rewards.
+Draws heavy inspiration from the light novel series Danmachi
 
 Built on a custom porting of Spine and Lwf for character and fighting animations.
 This is the masterpiece of my college education, in the making since winter break of 2018. I am using python, as in 2018 I really wanted to teach myself python, and decided that making a game would be a fun but powerful way to do so.
@@ -17,4 +18,4 @@ The biggest part of why development is slow however, is that I am BUSY with scho
 ### ⚡ Proficient at
 <img src="java.png" height="60"></img><img src="c.png" height="60"></img><img src="python.png" height="60"></img><img src="javascript.png" height="60"></img><img src="mysql.png" height="60"></img>
 ### 🏃 I've run across these guys before
-<img src="C_sharp_logo.svg" height="60"></img><img src="c_plus_plus.png" height="60"></img><img src="mysql.png" height="60"></img><img src="ruby.png" height="60"></img><img src="html.png" height="60"></img><img src="sqlite.png" height="60"></img>
+<img src="C_Sharp_logo.svg" height="60"></img><img src="C_plus_plus.png" height="60"></img><img src="mysql.png" height="60"></img><img src="ruby.png" height="60"></img><img src="html.png" height="60"></img><img src="sqlite.png" height="60"></img>
