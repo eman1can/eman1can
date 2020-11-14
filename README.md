@@ -4,7 +4,7 @@ You can look at me on [here](ethanwolfe.cikeys.com) for more information or to c
 ## Currently working on
 
 ### Coatirane Adventures (<img src="python.png" width="20" height="20"></img>)
-Built using a custom fork of [Kivy](https://github.com/eman1can/kivy) that adds hovering and asyncronous loading of S3 objects. <img src="kivy.png" width="20" height="20"></img> and to be compiled on Windows, Linux, Mac and Android.
+Built using a custom fork of [Kivy](https://github.com/eman1can/kivy)<img src="kivy.png" width="20" height="20"></img> that adds hovering and asyncronous loading of S3 objects and to be compiled on Windows, Linux, Mac and Android.
 Start in the small town of Coatirane, recruit adventurers to join your cause and explore a dangerous dungeon.
 
 Built on a custom porting of Spine and Lwf for character and fighting animations.
