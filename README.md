@@ -1,7 +1,7 @@
 # Ethan Wolfe
 ## Currently working on
 
-### Coatirane Adventures ![](/python.png =20x20)
+### Coatirane Adventures <img src="python.png" width="20" height="20"></img>)
 Built using a custom fork of [Kivy](https://github.com/eman1can/kivy) that adds hovering and asyncronous loading of S3 objects. ![](/kivy.png =20x) and to be compiled on Windows, Linux, Mac and Android.
 Start in the small town of Coatirane, recruit adventurers to join your cause and explore a dangerous dungeon.
 
