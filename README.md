@@ -6,7 +6,7 @@ You can look at me on [here](ethanwolfe.cikeys.com) for more information or to c
 ### Coatirane Adventures (<img src="python.png" width="20" height="20"></img>)
 Built using a custom fork of [Kivy](https://github.com/eman1can/kivy)<img src="kivy.png" width="20" height="20"></img> that adds hovering and asyncronous loading of S3 objects and to be compiled on Windows, Linux, Mac and Android.
 Starting in the small town of Coatirane, recruit adventurers to join your cause and explore a dangerous dungeon to gain strength and rewards.
-Draws heavy inspiration from the light novel series Danmachi
+Draws heavy inspiration from the light novel series Danmachi and its associated mobile game.
 
 Built on a custom porting of Spine and Lwf for character and fighting animations.
 This is the masterpiece of my college education, in the making since winter break of 2018. I am using python, as in 2018 I really wanted to teach myself python, and decided that making a game would be a fun but powerful way to do so.
