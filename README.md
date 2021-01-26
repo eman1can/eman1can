@@ -1,5 +1,5 @@
 # Ethan Wolfe
-You can look at me on [here](ethanwolfe.cikeys.com) for more information or to contact me!
+You can look at me on [here](https://ethanwolfe.cikeys.com) for more information or to contact me!
 
 ## Currently working on
 
