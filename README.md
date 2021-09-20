@@ -1,21 +1,12 @@
 # Ethan Wolfe
-You can look at me on [here](https://ethanwolfe.cikeys.com) for more information or to contact me!
-
-## Currently working on
-
-### Coatirane Adventures (<img src="python.png" width="20" height="20"></img>)
-Built using a custom fork of [Kivy](https://github.com/eman1can/kivy)<img src="kivy.png" width="20" height="20"></img> that adds hovering and asyncronous loading of S3 objects and to be compiled on Windows, Linux, Mac and Android.
-Starting in the small town of Coatirane, recruit adventurers to join your cause and explore a dangerous dungeon to gain strength and rewards.
-Draws heavy inspiration from the light novel series Danmachi and its associated mobile game.
-
-Built on a custom porting of Spine and Lwf for character and fighting animations.
-This is the masterpiece of my college education, in the making since winter break of 2018. I am using python, as in 2018 I really wanted to teach myself python, and decided that making a game would be a fun but powerful way to do so.
-At first, I started to create my project using TKinter while skiing in Mammoth Lakes with my Family. I just started to tinker (see what I did there? :p) with creating a small UI start screen and choosing a character until I realized that TKinter doesn't support alpha channel images (or something using transparency that it couldn't handle). I then poked around the GUI's using python and was starting to lose hope in making a game when I stumbled up Kivy. It promised to do everything I needed that TKinter couldn't and everything else as well. It was the whole kitchen sink.
-Now, after having taken an app development class, I can absolutely, positivley say that I started to make my game in the most horried, inefficient way possible. I started by creating the UI screen and by creating the workflow that a user might go through in polaying the game. Three years later, and while I have a whole UI where I can select characters to play as, get new characters, and almost change equipment and level characters, I can't actually play the game itself. Part of that reason is because of the complexity of the game engine itself that I am making. The other part is because I started the project in the wrong direction. had I started with the animation libraries and the core of the gameplay, I might have a actually playable game at this point, although I am sure that I would have lost enthusiam in the project at some point. You could actually say that I do have a playable game state right now, as currently you can walk around as the character and fight enemies, but there are no fighting animations, and there are no backgrounds. I am currently working on integrating the fighting animations and am really close to being done. Once I finish the fighting animations I plan to fully flush out the core game of fighting, and then integrate all the character leveling and equipment.
-Another part of why I haven't come that far in three whole years is that I have also chosen to undertake the ardous task of rewriting my whole code base multiple (more like 5-7) times when I either learn new information or learn that I was doing something horribly wrong. This has resulted in slow progress, but of the progress that I have made, I am extremly happy with the state of my code. I am currently however in the progress of yet another rewrite where I reorganize my code much better and use much more safe and clean ways of jumping around in my code. This is in part of the code that I am writing for the animations.
-The biggest part of why development is slow however, is that I am BUSY with school, taking 5-6 classes every single sememester, which is why I plan to have only 1-2 classes alongside my capstone so that I can really put 300% effort into it and deveote my every waking hour without worrying about falling behind in my classes.
+You can look at me on [here](https://ethanwolfe.myftp.biz) for more information or to contact me!
 
 ### ⚡ Proficient at
-<img src="java.png" height="60"></img><img src="c.png" height="60"></img><img src="python.png" height="60"></img><img src="javascript.png" height="60"></img><img src="mysql.png" height="60"></img>
+<img src="java.png" height="60"></img><img src="c.png" height="60"></img><img src="python.png" height="60"></img><img src="javascript.png" height="60"></img><img src="mysql.png" height="60"></img><img src="C_Sharp_logo.svg" height="60"></img><img src="mysql.png" height="60"></img>
 ### 🏃 I've run across these guys before
-<img src="C_Sharp_logo.svg" height="60"></img><img src="C_plus_plus.png" height="60"></img><img src="mysql.png" height="60"></img><img src="ruby.png" height="60"></img><img src="html.png" height="60"></img><img src="sqlite.png" height="60"></img>
+<img src="C_plus_plus.png" height="60"></img><img src="ruby.png" height="60"></img><img src="html.png" height="60"></img><img src="sqlite.png" height="60"></img>
+
+### Coatirane Adventures (<img src="python.png" width="20" height="20"></img>)
+
+Coatirane Adventures is my true passion and where almost all of my time ends up getting funneled. It is built inside a custom fork of [Kivy](https://github.com/eman1can/kivy)<img src="kivy.png" width="20" height="20"></img>. The game itself will be unpublished and a work of passion until I can manage to obtain enough funding and time to finish creating all custom artwork and animations for the game as well as adding many features that I would like. The game draws heavy inspiration from the light novel series Danmachi and its associated mobile game.
+Starting in the small town of Coatirane, recruit adventurers to join your cause and explore a dangerous dungeon to gain strength and rewards.
