@@ -9,7 +9,7 @@ This is on top of finishing my capstone, graduating, and finding a job.
 At SHFT, we are working to improve methods for big data analysis on hetergenious datasets, and the archival and emulation works of past game and mulimedia projects.
 
 ### ⚡ Proficient at
-<img src="java.png" height="60"></img><img src="c.png" height="60"></img><img src="python.png" height="60"></img><img src="javascript.png" height="60"></img><img src="mysql.png" height="60"></img><img src="C_Sharp_logo.svg" height="60"></img><img src="mysql.png" height="60"></img>
+<img src="java.png" height="60"></img><img src="c.png" height="60"></img><img src="python.png" height="60"></img><img src="javascript.png" height="60"></img><img src="mysql.png" height="60"></img><img src="C_Sharp_logo.svg" height="60"></img>
 ### 🏃 I've run across these guys before
 <img src="C_plus_plus.png" height="60"></img><img src="ruby.png" height="60"></img><img src="html.png" height="60"></img><img src="sqlite.png" height="60"></img>
 
