@@ -1,12 +1,10 @@
 # Ethan Wolfe
-You can look at me on [here](https://ethanwolfe.myftp.biz) for more information or to contact me!
-
-Current reading goal of the year is 300 books!
-I also have a goal to get my perfect games up to fifty!
-This is on top of finishing my capstone, graduating, and finding a job.
+You can look at me on [here](https://ethan-wolfe.myftp.biz) for more information or to contact me!
 
 ### I am a member of the SHFT group
 At SHFT, we are working to improve methods for big data analysis on hetergenious datasets, and the archival and emulation works of past game and mulimedia projects.
+
+A writer can be a programmer, but can a programmer be a writer?
 
 ### ⚡ Proficient at
 <img src="java.png" height="60"></img><img src="c.png" height="60"></img><img src="python.png" height="60"></img><img src="javascript.png" height="60"></img><img src="mysql.png" height="60"></img><img src="C_Sharp_logo.svg" height="60"></img>
@@ -20,8 +18,4 @@ Starting in the small town of Coatirane, recruit adventurers to join your cause 
 
 ### Wolf Reader
 
-Wolf Reader is a side project for me. A fully features ebook reader, it will include page turning, page counts and many other advanced fatures. I plan to release it solely on Android, and I started development due to the fact that I love the Kindle Fire App, but I hate how closed to ecosystem is, and want to add in lots of QOL improvements and functionality expansions. I am currently struggling with achieveing a good balance of loading in the background and a first loading time. Sadly, however I want to meet my reading goal of the year before I commit too much time to the project.
-
-### Goliath
-
-The Golaith is a monolithic book series, contianing at the least, 6 or 7 full sized books. There are also a large number of spin off stories and branches that I would also love to explore. This book series is even older than Coatirane Adventures and I began planning and writing the series in 2015. I am currently writing one of the main spin-off books and using it as inspiration and experience for writing the first books of the main storyline. 
+Wolf Reader is the actualization of the combining of Kindle and Calibre. I love the reading interface of the Kindle and the ease of use that my Fire allowed really drew me back into reading, but after awhile the horible organization of the Kindle Reader and the inability to read outside books or even books on the device pushed me towards the Calibre Companion app, but for all its features, it only has a limit of ten books and doesn't contain its own reader. This doesn't relieve my frustration with kindle's statistics either. This, I have embarked upon the created of Wolf Reader where I take the simplicity of Kindle, and the organization of Calibre to combine them in to a simple and satifactory reading experience. Current involed on actualizing the pagination algorithm of Android to both work on older systems, and be more specialized to the use case of literarry display, I am building the system from the ground up to hold the virtures of being quick, simple, and dependable.
